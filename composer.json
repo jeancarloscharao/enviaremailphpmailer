@@ -1,0 +1,12 @@
+{
+    "name": "jean/enviaremail",
+    "authors": [
+        {
+            "name": "Jean Carlos Charão Sabino",
+            "email": "jeancarloscharao@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.3"
+    }
+}
